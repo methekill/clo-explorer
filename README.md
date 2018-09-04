@@ -2,13 +2,13 @@
 
 [![Build Status](https://travis-ci.org/chainkorea/clo-explorer.svg?branch=master)](https://travis-ci.org/chainkorea/clo-explorer)
 
-<b>Live Version: [cloexplorer.org](https://cloexplorer.org)</b>
+<b>Live Version: [cloexplorer.ethereumcommonwealth.io](https://cloexplorerethereumcommonwealth.io)</b>
 
 ## Local installation
 
 Clone the repo
 
-`git clone https://github.com/chainkorea/clo-explorer`
+`git clone https://github.com/ethereumcommonwealth/clo-explorer`
 
 Download [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
 
